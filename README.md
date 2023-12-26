@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @890mn
-- 👀 I’m interested in ACG / Computer Science Konwledge
+- 👀 I’m interested in ACG / Computer Science / Embedded Linux / Embedded Software Development
 - 🌱 I’m currently learning C++
 - 💞️ I’m a sophomore majoring in CS
 
