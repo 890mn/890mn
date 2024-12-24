@@ -1,14 +1,22 @@
-# Hi there, I'm Hinar 👋
-<div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between;">
-  <div>
-    <img src="https://github-readme-stats.vercel.app/api?username=890mn&show_icons=true&theme=github_dark_dimmed" alt="GitHub Stats" />
-  </div>
-  <div style="flex: 1; margin-left: 20px;">
-    I am a passionate developer focusing on embedded systems and control algorithms. I enjoy creating efficient and user-friendly interfaces and control systems for embedded devices. My expertise includes working with hardware like ESP32, ESP8266, and STM32, and developing software using PlatformIO and Qt6.
-  </div>
+# Link-2-Github 👋 I'm Hinar
+<a href="https://github.com/890mn">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=890mn&show_icons=true&theme=github_dark_dimmed" alt="GitHub Stats" />
+</a>
+<a href="https://github.com/890mn">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=890mn&theme=github_dark_dimmed&layout=compact" alt="Top Languages" />
+</a>
+
+<div style="display: flex; align-items: center; margin-top: 20px;">
+  <ul style="list-style-type: disc; margin-left: 20px;">
+    <li>嵌入式软/硬件开发/QT开发爱好者</li>
+    <li>Development on: Windows 11 / Debian 12</li>
+    <li>Expertise with STM32F103x | ESP32-WROVER-E/WROOM-32/8266 | Qt6/PlatformIO/Keil5...</li>
+    <li>Major in Computer Science</li>
+  </ul>
 </div>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=890mn&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=890mn&show_icons=true&theme=github_dark_dimmed)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=890mn)
 
 ## Current Projects
 
