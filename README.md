@@ -14,7 +14,7 @@
 
 - An embedded UI design, aims to create a flexible and extensible framework for various devices.
 
-- **Core Technology:** ESP32-WROVER-E, 0.96' I2C OLED (128x64), C++
+- **Core Technology:** ESP32-WROVER-E, 0.96'I2C OLED C++
     - **Development Environment:** PlatformIO, VSCode
 
 <a href="https://github.com/890mn/CSDistrLighting">
@@ -33,8 +33,6 @@
   - Distributed control of lighting using ESP-NOW
   - Simulation of lighting control algorithms
   - Beautiful User interface for testing and validation
-
- ---
  
 If any problem, contact me: [Gmail](mailto:linkjoestar402212@gmail.com) | [Bilibili](https://space.bilibili.com/45409103)  
 Part of modules from: [Github-readme-stats](https://github.com/anuraghazra/github-readme-stats), great thanks!
