@@ -12,12 +12,10 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=890mn&repo=HinarUI&theme=github_dark_dimmed" />
 </a>
 
-an embedded UI design, aims to create a flexible and extensible framework for various UI designs, providing a robust foundation for future enhancements.
+an embedded UI design, aims to create a flexible and extensible framework for various devices.
 
-- **Core Technology:** ESP32-WROVER-E, 0.96' I2C OLED Display (128x64), C++
+- **Core Technology:** ESP32-WROVER-E, 0.96' I2C OLED (128x64), C++
 - **Development Environment:** PlatformIO, VSCode
-
----
 
 <a href="https://github.com/890mn/CSDistrLighting">
   <img height=120 align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=890mn&repo=CSDistrLighting&theme=github_dark_dimmed" />
@@ -33,4 +31,6 @@ an embedded UI design, aims to create a flexible and extensible framework for va
   - Distributed control of lighting using ESP-NOW
   - Simulation of lighting control algorithms
   - Beautiful User interface for testing and validation
-  - Integration with control logic from CSDistrLighting
+ 
+If any problem, contact me: [Gmail](mailto:linkjoestar402212@gmail.com) | [Bilibili](https://space.bilibili.com/45409103)  
+Part of function from: [Github-readme-stats](https://github.com/anuraghazra/github-readme-stats), great thanks!
