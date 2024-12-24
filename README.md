@@ -12,17 +12,17 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=890mn&repo=HinarUI&theme=github_dark_dimmed" />
 </a>
 
-An embedded UI design, aims to create a flexible and extensible framework for various devices.
+- An embedded UI design, aims to create a flexible and extensible framework for various devices.
 
-- **Core Technology:** ESP32-WROVER-E, 0.96' I2C OLED (128x64), C++  
-- **Development Environment:** PlatformIO, VSCode
+- **Core Technology:** ESP32-WROVER-E, 0.96' I2C OLED (128x64), C++
+    - **Development Environment:** PlatformIO, VSCode
 
 <a href="https://github.com/890mn/CSDistrLighting">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=890mn&repo=CSDistrLighting&theme=github_dark_dimmed" />
 </a>
 
-[CSDistrLighting](https://github.com/890mn/CSDistrLighting) is a control system project for distributed lighting based on ESP32 and ESP8266. The goal is to develop a main control system for distributed lighting.  
-It included [CSilver](https://github.com/890mn/CSilver), which is a simulation of the CSDistrLighting control algorithm based on Qt6.  
+- [CSDistrLighting](https://github.com/890mn/CSDistrLighting) is a control system project for distributed lighting based on ESP32 and ESP8266. The goal is to develop a main control system for distributed lighting.  
+- It included [CSilver](https://github.com/890mn/CSilver), which is a simulation of the CSDistrLighting control algorithm based on Qt6.  
 
 <a href="https://github.com/890mn/CSilver">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=890mn&repo=CSilver&theme=github_dark_dimmed" />
