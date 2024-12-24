@@ -19,7 +19,7 @@
 
 - **Core Technology:** ESP32-WROVER-E, 0.96'I2C OLED C++
 - **Development Environment:** PlatformIO, VSCode
-- Embedded Software / Qt
+- Embedded Software
 
 <a href="https://github.com/890mn/CSDistrLighting">
   <img height=120 align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=890mn&repo=CSDistrLighting&theme=github_dark_dimmed" />
@@ -28,6 +28,7 @@
 - [CSDistrLighting](https://github.com/890mn/CSDistrLighting) is a control system project for distributed lighting based on ESP32 and ESP8266. The goal is to develop a main control system for distributed lighting.  
 - It included [CSilver](https://github.com/890mn/CSilver), which is a simulation of the CSDistrLighting control algorithm based on Qt6.
 
+- Qt6 / Qml
 <a href="https://github.com/890mn/CSilver">
   <img height=140 align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=890mn&repo=CSilver&theme=github_dark_dimmed" />
 </a>
