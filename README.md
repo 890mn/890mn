@@ -1,5 +1,5 @@
 # Link-2-Github 👋 From Hinar
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=890mn&show_icons=true&theme=github_dark_dimmed&include_all_commits=true&hide_title=true" alt="GitHub Stats" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=890mn&show_icons=true&theme=github_dark_dimmed&include_all_commits=true&hide_title=true&rank_icon=github" alt="GitHub Stats" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=890mn&theme=github_dark_dimmed&layout=compact" alt="Top Languages" />
  
 - 嵌入式软/硬件开发/QT开发爱好者
@@ -7,11 +7,23 @@
 - Development on: Windows 11 / Debian 12
 - 更多内容欢迎访问我的个人网站：[link2hinar.fun](https://link2hinar.fun) | But the 2Core-2GB-3Mbps Server is a bit **weak** :( 
 
+## Some Project
 
-## Current Projects
+<a href="https://github.com/890mn/PWMC-DisDetection">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=890mn&repo=PWMC-DisDetection&theme=github_dark_dimmed" />
+</a>
 
-### HinarUI
-[HinarUI](https://github.com/890mn/HinarUI) is an embedded UI design project centered around the ESP32 microcontroller, featuring a 128x64 I2C OLED display. The project aims to create a flexible and extensible framework for various UI designs, providing a robust foundation for future enhancements.
+<a href="https://github.com/890mn/CSDistrLighting">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=890mn&repo=CSDistrLighting&theme=github_dark_dimmed" />
+</a>
+<a href="https://github.com/890mn/CSilver">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=890mn&repo=CSilver&theme=github_dark_dimmed" />
+</a>
+
+
+![HinarUI](https://github-readme-stats.vercel.app/api/pin/?username=890mn&repo=HinarUI&theme=github_dark_dimmed) is an embedded UI design project centered around the ESP32 microcontroller, featuring a 128x64 I2C OLED display. The project aims to create a flexible and extensible framework for various UI designs, providing a robust foundation for future enhancements.
+
+
 
 #### Project Highlights
 - **Core Technology:** ESP32, I2C OLED Display (128x64), C++
