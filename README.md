@@ -1,22 +1,12 @@
-# Link-2-Github 👋 I'm Hinar
-<a href="https://github.com/890mn">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=890mn&show_icons=true&theme=github_dark_dimmed" alt="GitHub Stats" />
-</a>
-<a href="https://github.com/890mn">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=890mn&theme=github_dark_dimmed&layout=compact" alt="Top Languages" />
-</a>
+# Link-2-Github 👋 From Hinar
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=890mn&show_icons=true&theme=github_dark_dimmed&include_all_commits=true&hide_title=true" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=890mn&theme=github_dark_dimmed&layout=compact" alt="Top Languages" />
+ 
+- 嵌入式软/硬件开发/QT开发爱好者
+- Expertise with STM32F103x | ESP32-WROVER-E/WROOM-32/8266 | Qt6/VSCode/Keil5/CubeMX | 嘉立创EDA/Multisim ...
+- Development on: Windows 11 / Debian 12
+- 更多内容欢迎访问我的个人网站：[link2hinar.fun](https://link2hinar.fun) | But the 2Core-2GB-3Mbps Server is a bit **weak** :( 
 
-<div style="display: flex; align-items: center; margin-top: 20px;">
-  <ul style="list-style-type: disc; margin-left: 20px;">
-    <li>嵌入式软/硬件开发/QT开发爱好者</li>
-    <li>Development on: Windows 11 / Debian 12</li>
-    <li>Expertise with STM32F103x | ESP32-WROVER-E/WROOM-32/8266 | Qt6/PlatformIO/Keil5...</li>
-    <li>Major in Computer Science</li>
-  </ul>
-</div>
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=890mn&show_icons=true&theme=github_dark_dimmed)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=890mn)
 
 ## Current Projects
 
@@ -68,11 +58,5 @@
   - LCD display for real-time data visualization
 
 
-## Get in Touch
-- **Email:** [your-email@example.com](mailto:your-email@example.com)
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)
-- **Twitter:** [@yourtwitterhandle](https://twitter.com/yourtwitterhandle)
-
-Feel free to reach out if you want to collaborate on a project or just want to say hi!
 
 
