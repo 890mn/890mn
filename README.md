@@ -30,11 +30,10 @@
 
 - Qt6 / Qml
 <a href="https://github.com/890mn/CSilver">
-  <img height=140 align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=890mn&repo=CSilver&theme=github_dark_dimmed" />
+  <img height=120 align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=890mn&repo=CSilver&theme=github_dark_dimmed" />
 </a>
 
 - **Core Technology:** ESP32, ESP8266, PlatformIO, Qt6, Qml, C++
-- **Features:**
-  - Distributed control of lighting using ESP-NOW
-  - Simulation of lighting control algorithms
-  - Beautiful User interface for testing and validation
+- Distributed control of lighting using ESP-NOW
+- Simulation of lighting control algorithms
+- Beautiful User interface for testing and validation
